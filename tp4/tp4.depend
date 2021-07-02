@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1625053825 source:c:\users\fernando\desktop\tp4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1565993298 c:\users\fernando\desktop\tp4\linkedlist.h
+
+1625246009 source:c:\users\fernando\desktop\tp4\empleados.c
+	"empleados.h"
+
+1625233089 c:\users\fernando\desktop\tp4\empleados.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
